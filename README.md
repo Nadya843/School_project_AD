@@ -3,7 +3,7 @@
 
 #### Содержание: / Content:
 
-- **Модуль 01 / Module 01**
+- **Модуль 01 / Module 01** 
   - Предобработка данных / Processing - *Project_1_1*
   - Исследовательский анализ данных / Exploratory data analysis - *Project_1_2*
   - Статистический анализ данных / Statistical analysis - *Project_1_3*
